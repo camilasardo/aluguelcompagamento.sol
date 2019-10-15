@@ -1,0 +1,1 @@
+# aluguelcompagamento.sol
